@@ -3,3 +3,5 @@
 ```bash
 go get github.com/joho/godotenv
 ```
+
+Для использования в проекте использовать метод `godotenv.Load()`
